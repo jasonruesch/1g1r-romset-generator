@@ -2,7 +2,7 @@
 .idea
 
 # DAT files
-*.dat
+# *.dat
 
 # Python virtualenv
 .env
